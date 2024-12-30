@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <div>
-       <h1>Welocome to Next.js</h1>
+       <h1>Yahala Yahalaa wmarhaba fik🫂</h1>
        <Link href="/postes">Posts page</Link>
     </div>
   )
